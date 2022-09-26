@@ -18,7 +18,7 @@ A physical proof of my knowledge. However, I was scared and it was not until Jul
 
 Other than gaining confidence in your skills, certifications open you up to a lot of benefits. For instance, you can land a new job, get a promotion or even attract more clients. Microsoft certification offers numerous opportunities, not just developers. Under the certification, you can upskill in different paths, for instance: as a Data Scientist, DevOps Engineer, Security Engineer, Solution Architect, Developer, Data Engineer, Functional Consultant, and an Administrator.
 
-![Source: [https://docs.microsoft.com/en-us/learn/certifications/?WT.mc_id=certposter_poster-wwl](https://docs.microsoft.com/en-us/learn/certifications/?WT.mc_id=certposter_poster-wwl)](images/cert-001.png)
+![Source: [https://docs.microsoft.com/en-us/learn/certifications/?WT.mc_id=certposter_poster-wwl](https://docs.microsoft.com/en-us/learn/certifications/?WT.mc_id=certposter_poster-wwl)](/cert-001.png)
 
 Source: [https://docs.microsoft.com/en-us/learn/certifications/?WT.mc_id=certposter_poster-wwl](https://docs.microsoft.com/en-us/learn/certifications/?WT.mc_id=certposter_poster-wwl)
 
@@ -26,7 +26,7 @@ Source: [https://docs.microsoft.com/en-us/learn/certifications/?WT.mc_id=certpos
 
 Microsoft Certifications are relatively affordable and prices range depending on your location.
 
-![Source: [https://docs.microsoft.com/en-us/learn/certifications/exams/ai-900](https://docs.microsoft.com/en-us/learn/certifications/exams/ai-900)](images/cert-002.png)
+![Source: [https://docs.microsoft.com/en-us/learn/certifications/exams/ai-900](https://docs.microsoft.com/en-us/learn/certifications/exams/ai-900)](/cert-002.png)
 Source: [https://docs.microsoft.com/en-us/learn/certifications/exams/ai-900](https://docs.microsoft.com/en-us/learn/certifications/exams/ai-900)
 
 If you are not able to pay for a certification, don’t worry, there are many opportunities to obtain one. As a [Microsoft Learn Student Ambassador](https://aka.ms/studentambassadors), I was able to get a free Microsoft Learn voucher, 2 actually as the program transitioned from being Microsoft Student Partners. This is just one way of obtaining a certification voucher. Other ways you can obtain a free voucher include:
@@ -37,7 +37,7 @@ If you are not able to pay for a certification, don’t worry, there are many op
 - Participating in Microsoft events and hackathons such as [Game of Learners](https://aka.ms/gameoflearners), that offer exam vouchers for the winning team(s).
 - Participate in [Microsoft 30 Days Learn It](https://developer.microsoft.com/en-us/offers/30-days-to-learn-it) challenge, and get 50% off your certification exam.
 
-![Source: [https://developer.microsoft.com/en-us/offers/30-days-to-learn-it](https://developer.microsoft.com/en-us/offers/30-days-to-learn-it)](images/cert-003.png)
+![Source: [https://developer.microsoft.com/en-us/offers/30-days-to-learn-it](https://developer.microsoft.com/en-us/offers/30-days-to-learn-it)](/cert-003.png)
 
 Source: [https://developer.microsoft.com/en-us/offers/30-days-to-learn-it](https://developer.microsoft.com/en-us/offers/30-days-to-learn-it)
 

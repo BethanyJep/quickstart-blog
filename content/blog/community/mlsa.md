@@ -33,11 +33,7 @@ The Student Ambassador program gives you an opportunity to:
 
 - Swag benefits including $150 monthly Azure credits, free Name.com domain, and swag kits.
 
-<img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}">
-
-{{ $image := .Resources.GetMatch "Untitled.png" }}
-
-![Untitled](/beth.png 'beth.png')
+![Untitled](/mlsa.png)
 
 ### **Program Eligibility and Timelines**
 
@@ -55,33 +51,33 @@ How do you become an MLSA? To apply to the program, you can follow the following
 - Go to [Microsoft Learn Student Ambassadors](https://studentambassadors.microsoft.com/)
 - Click the **Apply Now** button to start your application.
 
-![Untitled](become/Untitled 1.png)
+![Untitled](/mlsa1.png)
 
 - Login to the platform using your Microsoft account.
 
-![Untitled](img/Untitled%202.png)
+![Untitled](/mlsa2.png)
 
 - Once logged in you will be redirected to the application form. The application is divided into 6 parts:
     - **Privacy and Terms**: Read through the privacy and agreement, once done agree to the terms then continue to the next section.
     
-    ![Untitled](img/Untitled 3.png)
+    ![Untitled](/mlsa3.png)
     
     - **Personal Information:** correctly fill in your personal details.
     - **Academic Institution Information:** provide details of your school and accepted graduation date. The program is open to all students regardless of their degrees and/or majors.
     
-    ![Untitled](img/Untitled%204.png)
+    ![Untitled](/mlsa4.png)
     
     - **Application Questions:** 
     This is the most important section of the whole application. You are required to make one video and write two written samples to demonstrate your passion and desire to join the program. The three questions are on: **Inspire, Teach** and **Promote.** 
     The good news is you chose how to answer the questions, whether through video or written. Therefore, the first step is to choose which question you would like to answer using a video.
         
-        ![Untitled](img/Untitled%205.png)
+        ![Untitled](/mlsa5.png)
         
         Once you have selected the video you would like to submit, go ahead, and record your video. You can upload it to YouTube or OneDrive and submit the link to the video.
         
         Next, fill in the written samples.
         
-        ![Untitled](img/Untitled%206.png)
+        ![Untitled](/mlsa6.png)
         
         **Tips:** 
         

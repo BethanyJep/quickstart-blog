@@ -16,36 +16,36 @@ Power Automate is here to save time and rescue you from doing repetitive tasks o
 As a community manager, most of the time, you will find yourself collecting data from participants. Some case scenarios for this include: RSVP for events, feedback on ongoing programs, registration for different programs and so on and so forth. Let’s take the case for Game of Learners Season applications.  As the data streams in over a period of time, you might need to evaluate the data collected or contact the participants. Therefore, you will require to connect the data from the forms to an excel file. How do you do this? Here are the steps involved:
 
 **Step 1:** go to [Power Automate](https://us.flow.microsoft.com/) and create a new flow. (click the create button on your left)
-![](images/pa-001.png)
+![](/pa-001.png)
 
 **Step 2:** Create an automated cloud flow. The flow will be triggered automatically when one responds to the form.
 
 
-![](images/pa-002.png)
+![](/pa-002.png)
 
 **Step 3:** A flow has a trigger followed by different actions. As you create the flow, indicate the trigger and give your flow a name
 
-![](images/pa-003.png)
+![](/pa-003.png)
 **Step 4:**
 
 Once your flow is created, you are redirected to continue developing your flow. The designer allows you to add new steps and state what happens at each stage. First, the flow starts when a response is submitted to your form. Therefore, the first step is to indicate which form you want to automate
 
-![](images/pa-004.png)
+![](/pa-004.png)
 **Step 5:** In our case, we’re automating the Game Of Learners Season 3 form. We want the flow to run whenever a new response is submitted. Therefore the next step is to call the response details from the form. This is an action to fetch the responses submitted through the form
 
-![](images/pa-005.png)
+![](/pa-005.png)
 
 **Step 6:** Once you get the responses, you add them to your excel form. In our case, we will be using the GOL Sn3 Applications Excel file. You will be required to connect to your one drive. As I have the fields in the excel file already existing, I will match the responses to the corresponding fields. In case you do not have an existing excel file, create a new file then add the different fields as columns. After that, convert the excel sheet into a table and connect to the file.
 
-![](images/pa-006.png)
-![](images/pa-007.png)
+![](/pa-006.png)
+![](/pa-007.png)
 **Step 8:** You can now test your flow to check if it is working.
 
 ## **Templates:** Using pre-existing flows
 
 You do not have to create all your flows from scratch. There are some existing templates you can use to automate your work. For instance, let’s say you want to send emails to learners from the excel file you created above. How do you go about it? Head over to [Power Automate](https://us.flow.microsoft.com/), on your left select Templates and search for one that enables you to send emails from a selected excel form. From there you can customize the flow to meet your needs.
 
-![](images/pa-008.png)
+![](/pa-008.png)
 
 ## **Instant Cloud Flow:** Sending emails
 

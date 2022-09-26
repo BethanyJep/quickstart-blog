@@ -27,7 +27,7 @@ Creating an Azure subscription is a three-step process.
 - The account will be created
 - Scroll down and select “open outlook.com”
 
-![image](img/image1.jpeg)
+![image](/az1.jpeg)
 
 # Step 2: Redeeming a Microsoft Azure Verification Code:
 
@@ -40,15 +40,15 @@ session. Other logins can persist and cause errors during the activation step.
 - Click the **Start Free** button to get started.
 - Enter your account login information and select “Next”.
 
-![image](img/image3.png)
+![image](/az3.png)
 
 - Verify your identity with a phone number
 
-![image](img/image4.png)
+![image](/az4.png)
 
 - Select verification method by Verification Code. Enter your 25-character verification code and click “Verify Academic Status”.
 
-![image](img/image5.png)
+![image](/az5.png)
 
 - It may take up to 5 minutes to process the redemption.
 
@@ -57,15 +57,15 @@ session. Other logins can persist and cause errors during the activation step.
 - When the redemption process is completed, it will redirect to the sign-up page.
 - Enter your account information and click the agreement check box and click the Sign-up button.
 
-![img/image6.png](img/image6.png)
+![img/image6.png](/az6.png)
 
 - It may take a few minutes to process the request. Once done, take a minute to give feedback on the process.
 - Your Azure subscription is ready
 
-![img/image7.png](img/image7.png)
+![img/image7.png](/az7.png)
 
 - You can check the balance of your Azure Pass Credits
 
 on [https://www.microsoftazuresponsorships.com/balance](https://www.microsoftazuresponsorships.com/balance)
 
-![img/image9.png](img/image9.png)
+![img/image9.png](/az9.png)

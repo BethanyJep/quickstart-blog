@@ -51,7 +51,7 @@ On saying no: find a good reason and be polite.
 
 On receiving feedback: “It is always easy to criticize from the side-lines when you are not doing it yourself, so I am only accepting feedback from users or from people that are doing what I am doing because they know the difficulties.” 
 
-![Quote](images/pm-pd.png)
+![Quote](/pm-pd.png)
 
 ## Product Design
 

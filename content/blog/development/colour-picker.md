@@ -86,25 +86,25 @@ Flask is a backend web framework written in Python. Unlike Django, flask is easy
     
     - Before we go to the next step, upload the code to GitHub. GitHub enables you to not only track changes in you make in your applications but also using GitHub Actions you can automate future deployments.  You can do this directly on Visual Studio Code. On your right, select source control and publish your code to GitHub as shown below:
     
-    ![Untitled](images/Untitled.png)
+    ![Untitled](/color.png)
     
 ## Deploying your app on Azure Web App
     
-    To share our application publicly, we will need to deploy it. [Azure Web Apps](https://azure.microsoft.com/en-us/services/app-service/web/) not only enables us to deploy our web applications but also grants us continuous deployment from Azure DevOps, GitLab, GitHub and many other sources. In this section, we will cover how you can deploy your web application on Azure using Azure Web Apps.
+To share our application publicly, we will need to deploy it. [Azure Web Apps](https://azure.microsoft.com/en-us/services/app-service/web/) not only enables us to deploy our web applications but also grants us continuous deployment from Azure DevOps, GitLab, GitHub and many other sources. In this section, we will cover how you can deploy your web application on Azure using Azure Web Apps.
     
-    - First, sign into the [Azure Portal](https://portal.azure.com/) with your Microsoft Account and create a new resource.
+- First, sign into the [Azure Portal](https://portal.azure.com/) with your Microsoft Account and create a new resource.
     
-    ![Untitled](images/Untitled 1.png)
+![](/color1.png)
     
-    - Click on Web App. If you cannot be able to find it, go ahead and search for it in the search bar.
+- Click on Web App. If you cannot be able to find it, go ahead and search for it in the search bar.
     
-    ![Untitled](images/Untitled 2.png)
+![Untitled](/color2.png)
     
-    - Create you web app using the configurations below:
+- Create you web app using the configurations below:
         
-        ![Untitled](images/Untitled 3.png)
+    ![Untitled](/color3.png)
         
-        - **Subscription**: *Your subscription*
+    - **Subscription**: *Your subscription*
         - **Resource group**:
             - Select **Create new**
             - Name: **colour-picker-app**
@@ -117,38 +117,37 @@ Flask is a backend web framework written in Python. Unlike Django, flask is easy
             - **Linux Plan:** create new, name colour-picker
             - **Sku and size:** change size to **Free F1**
             
-            ![Untitled](images/Untitled 4.png)
+![Untitled](/color4.png)
             
-    - Select Review + Create then select Create to create you web app. It will take a few minutes to create your web app.
+- Select Review + Create then select Create to create you web app. It will take a few minutes to create your web app.
     
-    ![Untitled](images/Untitled 5.png)
+![Untitled](/color5.png)
     
-    - On your resource dashboard, you will see the application URL. Click to see what you have deployed.
+- On your resource dashboard, you will see the application URL. Click to see what you have deployed.
     
-    ![Untitled](images/Untitled 6.png)
+![Untitled](/color6.png)
     
-    - Your web app is now running but you are yet to add content. As we have already published our code on GitHub, click on the deployment centre to publish your code.
+- Your web app is now running but you are yet to add content. As we have already published our code on GitHub, click on the deployment centre to publish your code.
     
-    ![Untitled](images/Untitled 7.png)
-    
+![Untitled](/color7.png)
     - In this stage, we will get our code from GitHub build our pipeline with GitHub Actions.
     
-    ![Untitled](images/Untitled 8.png)
+![Untitled](/color8.png)
     
-    - **Source**: *GitHub*
+- **Source**: *GitHub*
     - **Authenticate connection to your GitHub Account**
     - **Organization**: *If you have multiple organizations select the organization where you saved you repository*
     - **Repository**: *Connect to the repository you just created, in our case: flask-app-deploy*
     - **Branch**: *master*
     - Select Save. Your application will be deployed in the background. You can check out the deployment progress under logs or on GitHub under actions. Once deployment is done, go ahead and refresh your website URL.
     
-    ![Untitled](images/Untitled 9.png)
+![Untitled](/color9.png)
     
-    ![Untitled](images/Untitled 10.png)
+![Untitled](/color10.png)
     
 - Now that our website has deployed successfully 👇, the next step is to provision a Computer Vision Resource that will help us analyse our image.
 
-![Untitled](images/Untitled 11.png)
+![Untitled](/color11.png)
 
 ## Provisioning a Computer Vision resource
 
@@ -156,7 +155,7 @@ Computer Vision is a field in Artificial Intelligence that allows applications t
 
 - Let’s go back to the [Azure Portal](https://portal.azure.com/) whereby we will create a Computer Vision resource.
 
-![Untitled](images/Untitled 12.png)
+![Untitled](/color12.png)
 
 - Create the computer vision resource
     - **Subscription**: *Your subscription*.
@@ -167,11 +166,11 @@ Computer Vision is a field in Artificial Intelligence that allows applications t
     - **Ensure you select:** *By checking this box I certify that I have reviewed and acknowledge the all the terms above.*
 - Select Review and create then Create your resource. Once the resource is deployed, you will be able go get you API keys and endpoint. We will use the endpoint to access the resource and the API key to authenticate our connection.
 
-![Untitled](images/Untitled 13.png)
+![Untitled](/color13.png)
 
 - The Computer Vision service analyses the image and provides the: dominant colours, accent colour, whether an image is black and white and the image metadata. The response is in JSON as shown below. In the next step, we will add features to our Flask application to be able to return an image’s colour scheme.
 
-```json
+```
 {'color': {'accentColor': '322419',
   'dominantColorBackground': 'Brown',
   'dominantColorForeground': 'Brown',
@@ -405,11 +404,11 @@ load_dotenv()
 
 Hooray, our app is now done ⌛. Go ahead and test the application.  I have deployed mine at [https://colourpicker.azurewebsites.net/](https://colourpicker.azurewebsites.net/), here you will paste the image URL the generate the colour scheme.
 
-![screen-1.png](images/screen-1.png)
+![screen-1.png](/screen-1.png)
 
 Below are our results and image! Go ahead, push your code to GitHub and share the application you have created to the world.
 
-![screen-2.png](images/screen-2.png)
+![screen-2.png](/screen-2.png)
 
 ## **What’s next?**
 
