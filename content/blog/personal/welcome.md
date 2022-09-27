@@ -1,15 +1,11 @@
-+++
-title = "Welcome to my Blog: Bethany-Jep"
-date = "2020-08-31 16:23:13"
-tags = [
-    "personal",
-    "review",
-    "story",
-]
-+++
+---
+title: 'Welcome to my Blog: Bethany-Jep'
+date: 2020-08-31 16:21:13
+category: 'personal'
+draft: false
+---
 
 Always, when introducing yourself, you try and gauge: how much is too much, or how little is too little?
-<!--more-->
 
 **Hello World!**
 

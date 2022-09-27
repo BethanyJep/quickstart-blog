@@ -1,15 +1,11 @@
-+++
-title = "User Interface vs User Experience Design"
-date = "2020-10-10 16:23:13"
-tags = [
-    "design",
-    "ui-design",
-    "ux-design",
-]
-+++
+---
+title: 'User Interface vs User Experience Design'
+date: 2020-10-10 16:21:13
+category: 'design'
+draft: false
+---
 
 At the center of the design is the user. When designing for the user in mind, UI and UX always come up, what are they?
-<!--more-->
 
 At the center of the design is the user. Whether you are creating an event poster or designing a wedding dress, the user is the center of it all. When designing for the user in mind, two terms always come up: User Interface and User Experience. In this article, I will demystify what the two terms mean, their differences, and how they work together.
 

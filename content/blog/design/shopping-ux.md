@@ -1,22 +1,19 @@
-+++
-title = "User Experience Analysis: Online vs Physical Shopping"
-date = "2020-10-10 16:23:13"
-tags = [
-    "ui-design",
-    "ux-design",
-]
-+++
+---
+title: 'User Experience Analysis: Online vs Physical Shopping'
+date: 2020-10-10 16:21:13
+category: 'design'
+draft: false
+---
 
 In this article, I explain the user experience an online shopper and offline shopper has, their similarity and differences.
-<!--more-->
 
-### **Introduction**
+###### **Introduction**
 
 Let's start by defining the different terms before we dive into the experiences. Physical Shopping is when you go to a mall or store to purchase something. In this case we will focus on Garden City Mall in Nairobi, Kenya (picture above). Online shopping is when you purchase something via an app or website, for the study we will focus on Jumia Website (image below):
 
 ![](https://github.com/BethanyJep/100DaysOfDesign/raw/master/image8.png)
 
-### **I have divided Shopping into five stages:**
+###### **I have divided Shopping into five stages:**
 
 - Need/want: a trigger that necessitates you to purchase something
 - Consideration: researching on where to purchase a product and why
@@ -24,11 +21,11 @@ Let's start by defining the different terms before we dive into the experiences.
 - Purchase: Transaction process where you buy/checkout your product
 - Post-purchase evaluation: after purchase, what next?
 
-### **Need**
+###### **Need**
 
 My friend Amina\* had invited my sister and I for her wedding last November. We were so excited until we realized we had nothing to wear. My sister and I discussed how we will buy the dresses.
 
-### **Consideration**
+###### **Consideration**
 
 First, we came up with the pros and cons for online and physical shopping:
 
@@ -50,7 +47,7 @@ I did not want to go through the hassle of shopping at our local mall, but my si
 
 Having decided where we will do our shopping, the next step is to narrow down our options. As discussed earlier, we will focus on Garden City Mall and Jumia Website
 
-### **Purchase decision**
+###### **Purchase decision**
 
 **Physical Shop Experience**
 
@@ -74,7 +71,7 @@ From there, I scroll to find the best dress for the wedding. The filter option e
 
 ![](https://github.com/BethanyJep/100DaysOfDesign/raw/master/image6.png)
 
-### **Purchase**
+###### **Purchase**
 
 **Physical Shop Experience**
 
@@ -90,17 +87,17 @@ After which I paid using mobile money and waited patiently for the delivery whic
 
 ![](https://github.com/BethanyJep/100DaysOfDesign/raw/master/image9.png)
 
-### **Post-purchase evaluation**
+###### **Post-purchase evaluation**
 
 As an online shopper, I had to wait a month to receive my dress, and in case it had any discrepancies in quality I would not be able to tell until I received my product.
 
 My sister on the other hand came back home with a dress in hand and did a runway for us to admire the dress
 .
 
-### **Conclusion**
+###### **Conclusion**
 
 The experience of shopping online and offline is quite similar yet different. While shopping, the main element is trust, something which online shops have introduced in the form of ratings and product reviews.
 Will I shop online again? Definitely, the convenience is amazing.
 
-###### _\* This is just a fictitious story._
-###### _\* All photos from Jumia are a screenshot of their current website_
+\*This is just a fictitious story.
+All photos from Jumia are a screenshot of their current website

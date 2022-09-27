@@ -1,16 +1,11 @@
-+++
-title = "Wentee: on product design and management."
-date = "2022-02-15 16:23:13"
-tags = [
-    "program-management",
-    "design",
-]
-+++
+---
+title: 'Wentee: on product design and management.'
+date: 2022-02-15 16:21:13
+category: 'design'
+draft: false
+---
 
-A mentor is someone who has walked the path before you and is tasked to guide you to navigate the path easier. 
-<!--more-->
-
-They already know the loopholes ahead; they've been there and done that. Their role is not to dictate what is right or wrong but to enlighten you to make your decision wiser. Knowledge induced by mentors is out of this world.
+A mentor is someone who has walked the path before you and is tasked to guide you to navigate the path easier. They already know the loopholes ahead; they've been there and done that. Their role is not to dictate what is right or wrong but to enlighten you to make your decision wiser. Knowledge induced by mentors is out of this world.
 
 I have had the chance to be part of several mentorship programs, but today I'll be talking about [wentors](https://www.wentors.com/). A few weeks before International Women's Day in 2021, an announcement was made on the Women Evolve WhatsApp group. It was a collaboration between the community and wentor. Wentors provides a platform for young women in tech to be mentored by more experienced industry professionals. I was matched with ****[Theresa (Theo) Kauffeld](https://www.linkedin.com/in/theresakauffeld/),** below are some nuggets I got from her.
 
@@ -51,7 +46,7 @@ On saying no: find a good reason and be polite.
 
 On receiving feedback: “It is always easy to criticize from the side-lines when you are not doing it yourself, so I am only accepting feedback from users or from people that are doing what I am doing because they know the difficulties.” 
 
-![Quote](/pm-pd.png)
+![Quote](images/pm-pd.png)
 
 ## Product Design
 

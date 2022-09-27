@@ -1,19 +1,15 @@
-+++
-title = "Redeeming Azure for Student Credits"
-date = "2022-07-25 16:23:13"
-tags = [
-    "community",
-    "students",
-    "azure",
-]
-+++
+---
+title: 'Redeeming Azure for Student Credits'
+date: 2021-07-25 16:23:13
+category: 'community'
+draft: false
+---
 
-As a student you get free $100 Azure credits and over 25 Azure services for free. How do you redeem this benefit using an Azure verification code?
-<!--more-->
+# Azure Verification Activation
 
-Creating an Azure subscription is a three-step process.
+# Creating an Azure subscription is a three-step process.
 
-1. Create a new [outlook.com](https://outlook.com) email account (skip this step if you already have an outlook account)
+1. Create a new Outlook.com email account (skip this step if you already have an outlook account)
 2. Redeem your Verification Code
 3. Activate your subscription
 
@@ -27,7 +23,7 @@ Creating an Azure subscription is a three-step process.
 - The account will be created
 - Scroll down and select “open outlook.com”
 
-![image](/az1.jpeg)
+![Azure%20Verification%20Activation%20b280de70c9b84f78b22a86ba65400e9e/image1.jpeg](Azure%20Verification%20Activation%20b280de70c9b84f78b22a86ba65400e9e/image1.jpeg)
 
 # Step 2: Redeeming a Microsoft Azure Verification Code:
 
@@ -40,15 +36,15 @@ session. Other logins can persist and cause errors during the activation step.
 - Click the **Start Free** button to get started.
 - Enter your account login information and select “Next”.
 
-![image](/az3.png)
+![Azure%20Verification%20Activation%20b280de70c9b84f78b22a86ba65400e9e/image3.png](Azure%20Verification%20Activation%20b280de70c9b84f78b22a86ba65400e9e/image3.png)
 
 - Verify your identity with a phone number
 
-![image](/az4.png)
+![Azure%20Verification%20Activation%20b280de70c9b84f78b22a86ba65400e9e/image4.png](Azure%20Verification%20Activation%20b280de70c9b84f78b22a86ba65400e9e/image4.png)
 
 - Select verification method by Verification Code. Enter your 25-character verification code and click “Verify Academic Status”.
 
-![image](/az5.png)
+![Azure%20Verification%20Activation%20b280de70c9b84f78b22a86ba65400e9e/image5.png](Azure%20Verification%20Activation%20b280de70c9b84f78b22a86ba65400e9e/image5.png)
 
 - It may take up to 5 minutes to process the redemption.
 
@@ -57,15 +53,15 @@ session. Other logins can persist and cause errors during the activation step.
 - When the redemption process is completed, it will redirect to the sign-up page.
 - Enter your account information and click the agreement check box and click the Sign-up button.
 
-![img/image6.png](/az6.png)
+![Azure%20Verification%20Activation%20b280de70c9b84f78b22a86ba65400e9e/image6.png](Azure%20Verification%20Activation%20b280de70c9b84f78b22a86ba65400e9e/image6.png)
 
 - It may take a few minutes to process the request. Once done, take a minute to give feedback on the process.
 - Your Azure subscription is ready
 
-![img/image7.png](/az7.png)
+![Azure%20Verification%20Activation%20b280de70c9b84f78b22a86ba65400e9e/image7.png](Azure%20Verification%20Activation%20b280de70c9b84f78b22a86ba65400e9e/image7.png)
 
 - You can check the balance of your Azure Pass Credits
 
 on [https://www.microsoftazuresponsorships.com/balance](https://www.microsoftazuresponsorships.com/balance)
 
-![img/image9.png](/az9.png)
+![Azure%20Verification%20Activation%20b280de70c9b84f78b22a86ba65400e9e/image9.png](Azure%20Verification%20Activation%20b280de70c9b84f78b22a86ba65400e9e/image9.png)

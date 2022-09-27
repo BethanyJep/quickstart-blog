@@ -1,15 +1,11 @@
-+++
-title = "Rejections"
-date = "2021-01-29 16:23:13"
-tags = [
-    "personal",
-    "review",
-    "story",
-]
-+++
+---
+title: 'Rejections'
+date: 2021-01-29 16:23:13
+category: 'personal'
+draft: false
+---
 
 In this blog I reminisce about my recent rejection and how it has shaped my view of....life?
-<!--more-->
 
 Have you ever wanted something so bad that when you got a rejection you paused, faltered, shaken and doubtful of yourself? You lost you anchor and you were on a free fall. Spiralling, down and down like without the end in sight.
 

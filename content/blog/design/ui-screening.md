@@ -1,14 +1,11 @@
-+++
-title = "Preparing for UI Designer Screening at Kwara"
-date = "2022-01-07 16:23:13"
-tags = [
-    "interviews",
-    "ui-design",
-]
-+++
+---
+title: 'Preparing for UI Designer Screening at Kwara'
+date: 2021-01-07 16:21:13
+category: 'design'
+draft: false
+---
 
 Being a freelancer comes with the challenge of always being on the look-out for your next client, joining Kwara would help me focus on design.
-<!--more-->
 
 As 2020 drew to a close, I got the good news I had been waiting for! I was invited to a screening UI Designer interview at [Kwara](https://kwara.com/). Kwara is a startup currently in Kenya and Germany. It is a business to business fintech that offers digital banking for SACCOs. The opportunity excited me and I hope to get in 🤞.
 

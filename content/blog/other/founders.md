@@ -1,16 +1,11 @@
-+++
-title = "Roommates to Founders:  What a Journey!"
-date = "2020-11-06 16:23:13"
-tags = [
-    "startups",
-    "story",
-]
-+++
+---
+title: 'Roommates to Founders:  What a Journey!'
+date: 2020-11-06 16:21:13
+category: 'other'
+draft: false
+---
 
-Friends motivate us to go just beyond who you are, and together you can achieve more. 
-<!--more-->
-
-Meet Shadrack Kiprotich and Aaron Kipkoech, two roommates from the Dedan Kimathi University of Technology who built the FursavsVirus Hackathon winning project.
+Friends motivate us to go just beyond who you are, and together you can achieve more. Meet Shadrack Kiprotich and Aaron Kipkoech, two roommates from the Dedan Kimathi University of Technology who built the FursavsVirus Hackathon winning project.
 
 I have interacted with Shadrack and Aaron in the [Microsoft Learn Student Ambassadors](https://studentambassadors.microsoft.com/) program and I had a chance to interview them on their recent win in the FursavsVirus National Hackathon challenge.
 

@@ -1,15 +1,11 @@
-+++
-title = "Design Case Study: Viusasa Redesign"
-date = "2021-01-26 16:23:13"
-tags = [
-    "ux-design",
-    "ui-design",
-    "case-study",
-]
-+++
+---
+title: 'Design Case Study: Viusasa Redesign'
+date: 2021-01-26 16:21:13
+category: 'design'
+draft: false
+---
 
 Every designer has a case study of their design, here is my first.
-<!--more-->
 
 **_!Disclaimer_** I was not hired by Viusasa nor did I receive any payment for the project
 

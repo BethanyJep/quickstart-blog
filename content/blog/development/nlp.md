@@ -1,14 +1,13 @@
-+++
-title = "Introduction to Natural Language Processing(NLP): Jobs in Kenya Project"
-date = "2020-11-14 16:23:13"
-tags = [
-    "data",
-    "nlp",
-]
-+++
+---
+title: 'Introduction to NLP: Jobs in Kenya Project'
+date: 2021-01-14 16:21:13
+category: 'development'
+draft: false
+---
 
-Twitter Analysis of Jobs posted and its legitimacy.
-<!--more-->
+<!-- Twitter Analysis of Jobs posted and its legitimacy. -->
+
+<!-- _Twitter Analysis of Jobs posted and its legitimacy. ? -->
 
 2020 was a tough year where due to the ongoing COVID-19 crisis, most individuals have lost their jobs. Twitter is one of the platforms individuals go to seek job opportunities, hence I decided to create a model to filter relevant job opportunities.
  

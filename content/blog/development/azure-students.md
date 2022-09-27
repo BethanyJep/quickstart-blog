@@ -1,18 +1,13 @@
-+++
-title = "Azure for Students and Azure Web Apps"
-date = "2022-02-28 16:23:13"
-tags = [
-    "azure",
-    "students",
-]
-+++
-
-Earlier today I did a session introducing Game of Learners 2022 participants to Azure. Here is what I covered:
-<!--more-->
+---
+title: 'Azure for Students'
+date: 2022-02-28 16:21:13
+category: 'development'
+draft: false
+---
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRMBeR839jOz7oun9w90DKtAo9B73MU8Mm74BaaRGQhPgzNKA8cbF53iShfgxEMoQ/embed?start=false&loop=false&delayms=5000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-In the session, I covered:
+Earlier today I did a session introducing Game of Learners 2022 participants to Azure. In the session, I covered:
 * Getting started with a free [Azure for Students Account](https://azure.microsoft.com/en-us/free/students/)
 * Next we deployed a simple Hello World Flask application using Azure Web Services
 * Lastly we covered how you can add your teammates to your directory
